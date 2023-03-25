@@ -1,5 +1,5 @@
 # TBR20-Formula-Student-ABS
-These are the scripts required for the Team Bath Racing TBR20 Anti-Lock Braking System installation. This was created as part of my final year project for my MEng Mechanical with Automotive Engineering degree at the University of Bath. It is being added to github now as legacy reference, and is being marked as public in case any current Formula Student teams (or anyone else) would like to adapt it for their use.
+These are the scripts required for the Team Bath Racing TBR20 Anti-Lock Braking System installation. This was created in 2020 as part of my final year project for my MEng Mechanical with Automotive Engineering degree at the University of Bath. It is being added to github now as legacy reference, and is being marked as public in case any current Formula Student teams (or anyone else) would like to adapt it for their use.
 
 This program is written in C/C++, and designed to be run on an mbed NXP LPC1768.
 The system installation has inputs from a dashboard-mounted rotary switch, and the on-car CAN bus (via an MCP2515 CAN controller).
